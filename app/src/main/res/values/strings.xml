@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RSP Champion</string>
+    <string name="header_logo_txt1">Rock:Paper:Scissors</string>
+    <string name="txt_VS1">VS</string>
+    <string name="scoreAI">Score AI</string>
+    <string name="scoreMe">Score Me</string>
+    <string name="button_rock">Rock</string>
+    <string name="button_paper">Paper</string>
+    <string name="button_scissors">Scissors</string>
+    <string name="button_random">Random</string>
+    <string name="button_start">Restart</string>
+</resources>
